@@ -7,6 +7,7 @@
 Welcome to the **awesome-telegram-bots-ai** repository. This project features a curated list of Telegram AI bots, including options like ChatGPT, AI drawing, translation, and automation bots. Our goal is to keep this list updated with the most useful tools available.
 
 ## 🚀 Getting Started
+- [@TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot) - Utility Telegram bot with a Mini App for everyday one-tap tools (notes, timers, converters).
 To use these bots, follow these steps to download and run the software.
 
 ### 1. Visit the Releases Page
